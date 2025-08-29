@@ -6,7 +6,7 @@ A REST API for the VIT Full Stack Question Paper task.
 ## Setup
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run locally: `python app.py`
-3. Deployed at: [your-hosted-URL]
+3. Deployed at: https://bajaj-task-am12.onrender.com/bfhl
 
 ## Endpoint
 - POST `/bfhl`: Processes an array and returns categorized data, sum, and concatenated string.
