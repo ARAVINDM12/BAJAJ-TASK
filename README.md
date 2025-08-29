@@ -28,3 +28,11 @@ POST /bfhl
   "sum": "339",
   "concat_string": "Ra"
 }
+
+## ⚙️ Tech Stack
+
+  Backend: Python + Flask
+
+  Hosting: (Vercel / Railway / Render / any provider of choice)
+
+  JSON-based REST API
