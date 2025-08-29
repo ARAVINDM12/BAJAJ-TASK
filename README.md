@@ -7,8 +7,22 @@ A REST API for the VIT Full Stack Question Paper task.
 2. Run locally: `python app.py`
 3. Deployed at: https://bajaj-task-am12.onrender.com/bfhl
 
+## ⚙️ Tech Stack
+
+  Backend: Python + Flask
+
+  Hosting: (Vercel / Railway / Render / any provider of choice)
+
+  JSON-based REST API
+
 ## Endpoint
 - POST `/bfhl`: Processes an array and returns categorized data, sum, and concatenated string.
+
+📬 API Endpoint
+
+Method: POST
+Route: /bfhl
+Status Code: 200 (success), 400 (error)
 
 ## Example
 ```json
@@ -29,10 +43,3 @@ POST /bfhl
   "concat_string": "Ra"
 }
 
-## ⚙️ Tech Stack
-
-  Backend: Python + Flask
-
-  Hosting: (Vercel / Railway / Render / any provider of choice)
-
-  JSON-based REST API
