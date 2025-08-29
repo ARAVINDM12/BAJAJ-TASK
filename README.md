@@ -1,4 +1,3 @@
-# BAJAJ-TASK
 
 # BAJAJ-TASK API
 A REST API for the VIT Full Stack Question Paper task.
